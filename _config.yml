@@ -71,7 +71,7 @@ content:
         quote: >
           Administrateur réseau et systèmes dans une petite équipe de 4 personnes pour gérer 430 collabs / 300 devices sur tout le scopte réseau/téléphonie/systèmes/sauvegardes/sécurité. La polyvalence est une condition requise pour ce type de poste.
         description: | # this will include new lines to allow paragraphs
-            - Modern Workplace | First Line Workers
+            - Administration Modern Workplace & First Line Workers
             - Administration Windows
             - Administration Linux
             - Administration Office 365 & Co
@@ -79,11 +79,15 @@ content:
             - Administration Landesk Ivanti
             - Administration de Cisco Meraki & Umbrella
             - Administration de le téléphonie IP
+            - Administration Veeam
+            - Support Niveau 1
+            - Accompagnement utilisateur
+            
 
   - title: Etudes # Title for the section
     layout: list # Type of content section (list/text)
     content:
-        - layout: left
+        - layout: right
           title: SQLI Lille - Aston Informatique
           caption: 2018 - 2020
           sub_title: BAC +4 - Administrateur Systèmes Réseaux et Bases de données.
