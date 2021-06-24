@@ -77,9 +77,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
         - layout: left
-           title: SQLI Lille - Aston Informatique
-            caption: 2018 - 2020
-            sub_title: BAC +4 - Administrateur Systèmes Réseaux et Bases de données.
+          title: SQLI Lille - Aston Informatique
+          caption: 2018 - 2020
+          sub_title: BAC +4 - Administrateur Systèmes Réseaux et Bases de données.
             #quote: >
             # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
             #description: | # this will include new lines to allow paragraphs
@@ -87,9 +87,9 @@ content:
 
             # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
         - layout: left
-           title: CESI Arras
-            caption: 2010 - 2013
-            sub_title: BAC +2 - Gestionnaire en Maintenance et Support Informatique.
+          title: CESI Arras
+          caption: 2016 - 2018
+          sub_title: BAC +2 - Gestionnaire en Maintenance et Support Informatique.
             #quote: >
             # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
             #description: | # this will include new lines to allow paragraphs
