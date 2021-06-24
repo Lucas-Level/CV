@@ -65,7 +65,7 @@ content:
       - layout: left
         title: Top Office 
         link: www.top-office.com
-        # link_text: boringcompany.com
+        link_text: images/topoffice.png
         sub_title: Administrateur systèmes et réseau
         caption: Aout 2018 - Maintenant
         quote: >
@@ -105,12 +105,12 @@ content:
       - La moto
       - [Devenir un Ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      Regardez cette image plutot cool  
+      ![Arbres](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: References sur demande (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
