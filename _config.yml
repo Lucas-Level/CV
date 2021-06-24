@@ -77,7 +77,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
         - layout: left
-            title: SQLI Lille - Aston Informatique
+           title: SQLI Lille - Aston Informatique
             caption: 2018 - 2020
             sub_title: BAC +4 - Administrateur Systèmes Réseaux et Bases de données.
             #quote: >
@@ -87,7 +87,7 @@ content:
 
             # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
         - layout: left
-            title: CESI Arras
+           title: CESI Arras
             caption: 2010 - 2013
             sub_title: BAC +2 - Gestionnaire en Maintenance et Support Informatique.
             #quote: >
